@@ -12,7 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         require 'fichier1-Loison.php';
-        echo 'Bonjour de Loison';
+
+        echo 'bonjour de Loison';
         echo 'seconde ligne de programme pour utilisateur Loison';
         ?>
     </body>
