@@ -11,6 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        require 'fichier1-Loison.php';
+
         echo 'bonjour de Loison';
         ?>
     </body>
