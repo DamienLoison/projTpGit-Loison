@@ -14,6 +14,7 @@ and open the template in the editor.
         require 'fichier1-Loison.php';
 
         echo 'bonjour de Loison';
+        echo 'seconde ligne de programme pour utilisateur Loison';
         ?>
     </body>
 </html>
