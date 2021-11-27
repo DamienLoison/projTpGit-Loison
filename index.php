@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         require 'fichier1-Loison.php';
         echo 'Bonjour de Loison';
-        ▪ echo "petite modif pour voir un diff";
+        echo "petite modif pour voir un diff";
         ?>
     </body>
 </html>
